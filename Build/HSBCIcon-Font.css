@@ -174,7 +174,7 @@
 
 
 .icon-circle-confirmation-solid:before {
-	content:"\f101";
+	content:"\e008";
 }
 
 
@@ -184,7 +184,7 @@
 
 
 .icon-circle-delete-solid:before {
-	content:"\f102";
+	content:"\e007";
 }
 
 
@@ -313,11 +313,6 @@
 }
 
 
-.icon-dining-food:before {
-	content:"\f103";
-}
-
-
 .icon-do-not-view:before {
 	content:"\e020";
 }
@@ -334,7 +329,7 @@
 
 
 .icon-download:before {
-	content:"\f023";
+	content:"\f000";
 }
 
 
@@ -385,6 +380,11 @@
 
 .icon-filter:before {
 	content:"\e027";
+}
+
+
+.icon-food-dining:before {
+	content:"\f081";
 }
 
 
@@ -589,7 +589,7 @@
 
 
 .icon-products-services:before {
-	content:"\f104";
+	content:"\f027";
 }
 
 
@@ -758,8 +758,8 @@
 }
 
 
-.icon-user-personal:before {
-	content:"\f105";
+.icon-user:before {
+	content:"\f01c";
 }
 
 
