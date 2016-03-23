@@ -22,8 +22,8 @@ module.exports = function (grunt) {
                 dest: "build/",
                 options: {
                     font: 'HSBCIcon-Font',
-                    engine: "node",
-                    hashes: false,
+                    engine: "fontforge",
+                    hashes: true,
                     relativeFontPath: '/fonts/',
                     htmlDemoTemplate: 'template/template.html',
                     codepoints: {
@@ -199,7 +199,7 @@ module.exports = function (grunt) {
             },
             build: {
                 options: {
-                    title: "Sucess",
+                    title: "Success",
                     message: "HSBC icon Font is built"
                 }
             }

@@ -1,0 +1,405 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'update' ]
+2 info using npm@3.8.2
+3 info using node@v0.10.29
+4 silly mapToRegistry name grunt
+5 silly mapToRegistry using default registry
+6 silly mapToRegistry registry https://registry.npmjs.org/
+7 silly mapToRegistry uri https://registry.npmjs.org/grunt
+8 silly mapToRegistry name grunt-contrib-watch
+9 silly mapToRegistry using default registry
+10 silly mapToRegistry registry https://registry.npmjs.org/
+11 silly mapToRegistry uri https://registry.npmjs.org/grunt-contrib-watch
+12 silly mapToRegistry name grunt-notify
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/grunt-notify
+16 silly mapToRegistry name grunt-webfont
+17 silly mapToRegistry using default registry
+18 silly mapToRegistry registry https://registry.npmjs.org/
+19 silly mapToRegistry uri https://registry.npmjs.org/grunt-webfont
+20 silly mapToRegistry name matchdep
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry uri https://registry.npmjs.org/matchdep
+24 verbose request uri https://registry.npmjs.org/grunt
+25 verbose request no auth needed
+26 info attempt registry request try #1 at 22:08:06
+27 verbose request id 7edc1b69aa31afec
+28 verbose etag "4VPF8Z2KKBOYJEKEAI0LUBD91"
+29 http request GET https://registry.npmjs.org/grunt
+30 verbose request uri https://registry.npmjs.org/grunt-notify
+31 verbose request no auth needed
+32 info attempt registry request try #1 at 22:08:06
+33 verbose etag "4M2WNZRERVTYHHC1R0PP6UZX"
+34 http request GET https://registry.npmjs.org/grunt-notify
+35 verbose request uri https://registry.npmjs.org/grunt-contrib-watch
+36 verbose request no auth needed
+37 info attempt registry request try #1 at 22:08:06
+38 verbose etag "2HFPPJJJJD5BITOZN2GT07R51"
+39 http request GET https://registry.npmjs.org/grunt-contrib-watch
+40 verbose request uri https://registry.npmjs.org/grunt-webfont
+41 verbose request no auth needed
+42 info attempt registry request try #1 at 22:08:06
+43 verbose etag "BLZ4ASQQIOQ678OPR2GHQ5WHO"
+44 http request GET https://registry.npmjs.org/grunt-webfont
+45 verbose request uri https://registry.npmjs.org/matchdep
+46 verbose request no auth needed
+47 info attempt registry request try #1 at 22:08:06
+48 verbose etag "E1H86JD1EN23TS16S49P0D1OU"
+49 http request GET https://registry.npmjs.org/matchdep
+50 http 304 https://registry.npmjs.org/grunt
+51 verbose headers { date: 'Wed, 23 Mar 2016 22:08:06 GMT',
+51 verbose headers   via: '1.1 varnish',
+51 verbose headers   'cache-control': 'max-age=300',
+51 verbose headers   etag: '"4VPF8Z2KKBOYJEKEAI0LUBD91"',
+51 verbose headers   age: '191',
+51 verbose headers   connection: 'keep-alive',
+51 verbose headers   'x-served-by': 'cache-lcy1135-LCY',
+51 verbose headers   'x-cache': 'HIT',
+51 verbose headers   'x-cache-hits': '1',
+51 verbose headers   'x-timer': 'S1458770886.716076,VS0,VE0',
+51 verbose headers   vary: 'Accept' }
+52 silly get cb [ 304,
+52 silly get   { date: 'Wed, 23 Mar 2016 22:08:06 GMT',
+52 silly get     via: '1.1 varnish',
+52 silly get     'cache-control': 'max-age=300',
+52 silly get     etag: '"4VPF8Z2KKBOYJEKEAI0LUBD91"',
+52 silly get     age: '191',
+52 silly get     connection: 'keep-alive',
+52 silly get     'x-served-by': 'cache-lcy1135-LCY',
+52 silly get     'x-cache': 'HIT',
+52 silly get     'x-cache-hits': '1',
+52 silly get     'x-timer': 'S1458770886.716076,VS0,VE0',
+52 silly get     vary: 'Accept' } ]
+53 verbose etag https://registry.npmjs.org/grunt from cache
+54 verbose get saving grunt to /Users/stevewikeley/.npm/registry.npmjs.org/grunt/.cache.json
+55 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+56 http 200 https://registry.npmjs.org/grunt-contrib-watch
+57 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+57 verbose headers   etag: '"4585VBIVXK8XVLRFKJ6R0AK0P"',
+57 verbose headers   'content-type': 'application/json',
+57 verbose headers   'cache-control': 'max-age=300',
+57 verbose headers   'content-length': '63893',
+57 verbose headers   'accept-ranges': 'bytes',
+57 verbose headers   date: 'Wed, 23 Mar 2016 22:08:06 GMT',
+57 verbose headers   via: '1.1 varnish',
+57 verbose headers   age: '136',
+57 verbose headers   connection: 'keep-alive',
+57 verbose headers   'x-served-by': 'cache-lcy1121-LCY',
+57 verbose headers   'x-cache': 'HIT',
+57 verbose headers   'x-cache-hits': '51',
+57 verbose headers   'x-timer': 'S1458770886.731780,VS0,VE0',
+57 verbose headers   vary: 'Accept' }
+58 silly get cb [ 200,
+58 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+58 silly get     etag: '"4585VBIVXK8XVLRFKJ6R0AK0P"',
+58 silly get     'content-type': 'application/json',
+58 silly get     'cache-control': 'max-age=300',
+58 silly get     'content-length': '63893',
+58 silly get     'accept-ranges': 'bytes',
+58 silly get     date: 'Wed, 23 Mar 2016 22:08:06 GMT',
+58 silly get     via: '1.1 varnish',
+58 silly get     age: '136',
+58 silly get     connection: 'keep-alive',
+58 silly get     'x-served-by': 'cache-lcy1121-LCY',
+58 silly get     'x-cache': 'HIT',
+58 silly get     'x-cache-hits': '51',
+58 silly get     'x-timer': 'S1458770886.731780,VS0,VE0',
+58 silly get     vary: 'Accept' } ]
+59 verbose get saving grunt-contrib-watch to /Users/stevewikeley/.npm/registry.npmjs.org/grunt-contrib-watch/.cache.json
+60 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+61 http 200 https://registry.npmjs.org/matchdep
+62 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+62 verbose headers   etag: '"AI2L7DV384FPU5D8I3AU4MJOF"',
+62 verbose headers   'content-type': 'application/json',
+62 verbose headers   'cache-control': 'max-age=300',
+62 verbose headers   'content-length': '11439',
+62 verbose headers   'accept-ranges': 'bytes',
+62 verbose headers   date: 'Wed, 23 Mar 2016 22:08:07 GMT',
+62 verbose headers   via: '1.1 varnish',
+62 verbose headers   age: '0',
+62 verbose headers   connection: 'keep-alive',
+62 verbose headers   'x-served-by': 'cache-lcy1123-LCY',
+62 verbose headers   'x-cache': 'HIT',
+62 verbose headers   'x-cache-hits': '1',
+62 verbose headers   'x-timer': 'S1458770886.762385,VS0,VE423',
+62 verbose headers   vary: 'Accept' }
+63 silly get cb [ 200,
+63 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+63 silly get     etag: '"AI2L7DV384FPU5D8I3AU4MJOF"',
+63 silly get     'content-type': 'application/json',
+63 silly get     'cache-control': 'max-age=300',
+63 silly get     'content-length': '11439',
+63 silly get     'accept-ranges': 'bytes',
+63 silly get     date: 'Wed, 23 Mar 2016 22:08:07 GMT',
+63 silly get     via: '1.1 varnish',
+63 silly get     age: '0',
+63 silly get     connection: 'keep-alive',
+63 silly get     'x-served-by': 'cache-lcy1123-LCY',
+63 silly get     'x-cache': 'HIT',
+63 silly get     'x-cache-hits': '1',
+63 silly get     'x-timer': 'S1458770886.762385,VS0,VE423',
+63 silly get     vary: 'Accept' } ]
+64 verbose get saving matchdep to /Users/stevewikeley/.npm/registry.npmjs.org/matchdep/.cache.json
+65 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+66 http 304 https://registry.npmjs.org/grunt-webfont
+67 verbose headers { date: 'Wed, 23 Mar 2016 22:08:06 GMT',
+67 verbose headers   via: '1.1 varnish',
+67 verbose headers   'cache-control': 'max-age=300',
+67 verbose headers   etag: '"BLZ4ASQQIOQ678OPR2GHQ5WHO"',
+67 verbose headers   age: '0',
+67 verbose headers   connection: 'keep-alive',
+67 verbose headers   'x-served-by': 'cache-lcy1132-LCY',
+67 verbose headers   'x-cache': 'HIT',
+67 verbose headers   'x-cache-hits': '1',
+67 verbose headers   'x-timer': 'S1458770886.707225,VS0,VE605',
+67 verbose headers   vary: 'Accept' }
+68 silly get cb [ 304,
+68 silly get   { date: 'Wed, 23 Mar 2016 22:08:06 GMT',
+68 silly get     via: '1.1 varnish',
+68 silly get     'cache-control': 'max-age=300',
+68 silly get     etag: '"BLZ4ASQQIOQ678OPR2GHQ5WHO"',
+68 silly get     age: '0',
+68 silly get     connection: 'keep-alive',
+68 silly get     'x-served-by': 'cache-lcy1132-LCY',
+68 silly get     'x-cache': 'HIT',
+68 silly get     'x-cache-hits': '1',
+68 silly get     'x-timer': 'S1458770886.707225,VS0,VE605',
+68 silly get     vary: 'Accept' } ]
+69 verbose etag https://registry.npmjs.org/grunt-webfont from cache
+70 verbose get saving grunt-webfont to /Users/stevewikeley/.npm/registry.npmjs.org/grunt-webfont/.cache.json
+71 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+72 http 200 https://registry.npmjs.org/grunt-notify
+73 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+73 verbose headers   etag: '"7I54DDPFR1KXI793WHQNSCHP2"',
+73 verbose headers   'content-type': 'application/json',
+73 verbose headers   'cache-control': 'max-age=300',
+73 verbose headers   'content-length': '57014',
+73 verbose headers   'accept-ranges': 'bytes',
+73 verbose headers   date: 'Wed, 23 Mar 2016 22:08:07 GMT',
+73 verbose headers   via: '1.1 varnish',
+73 verbose headers   age: '0',
+73 verbose headers   connection: 'keep-alive',
+73 verbose headers   'x-served-by': 'cache-lcy1120-LCY',
+73 verbose headers   'x-cache': 'HIT',
+73 verbose headers   'x-cache-hits': '1',
+73 verbose headers   'x-timer': 'S1458770886.751706,VS0,VE646',
+73 verbose headers   vary: 'Accept' }
+74 silly get cb [ 200,
+74 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+74 silly get     etag: '"7I54DDPFR1KXI793WHQNSCHP2"',
+74 silly get     'content-type': 'application/json',
+74 silly get     'cache-control': 'max-age=300',
+74 silly get     'content-length': '57014',
+74 silly get     'accept-ranges': 'bytes',
+74 silly get     date: 'Wed, 23 Mar 2016 22:08:07 GMT',
+74 silly get     via: '1.1 varnish',
+74 silly get     age: '0',
+74 silly get     connection: 'keep-alive',
+74 silly get     'x-served-by': 'cache-lcy1120-LCY',
+74 silly get     'x-cache': 'HIT',
+74 silly get     'x-cache-hits': '1',
+74 silly get     'x-timer': 'S1458770886.751706,VS0,VE646',
+74 silly get     vary: 'Accept' } ]
+75 verbose get saving grunt-notify to /Users/stevewikeley/.npm/registry.npmjs.org/grunt-notify/.cache.json
+76 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+77 verbose outdated not updating grunt-contrib-watch because it's currently at the maximum version that matches its specified semver range
+78 info outdated updating [ { dep:
+78 info outdated      { id: 4,
+78 info outdated        package: [Object],
+78 info outdated        path: '/Users/stevewikeley/Sites/icon-font/node_modules/grunt-notify',
+78 info outdated        realpath: '/Users/stevewikeley/Sites/icon-font/node_modules/grunt-notify',
+78 info outdated        parent: [Object],
+78 info outdated        isLink: false,
+78 info outdated        children: [Object],
+78 info outdated        error: null,
+78 info outdated        loaded: false,
+78 info outdated        requiredBy: [Object],
+78 info outdated        requires: [Object],
+78 info outdated        missingDeps: {},
+78 info outdated        missingDevDeps: {},
+78 info outdated        userRequired: false,
+78 info outdated        existing: false },
+78 info outdated     depname: 'grunt-notify',
+78 info outdated     current: '0.3.0',
+78 info outdated     wanted: '0.3.1',
+78 info outdated     latest: '0.4.5',
+78 info outdated     req: '^0.3.0',
+78 info outdated     what: 'grunt-notify@0.3.1' },
+78 info outdated   { dep:
+78 info outdated      { id: 5,
+78 info outdated        package: [Object],
+78 info outdated        path: '/Users/stevewikeley/Sites/icon-font/node_modules/grunt-webfont',
+78 info outdated        realpath: '/Users/stevewikeley/Sites/icon-font/node_modules/grunt-webfont',
+78 info outdated        parent: [Object],
+78 info outdated        isLink: false,
+78 info outdated        children: [Object],
+78 info outdated        error: null,
+78 info outdated        loaded: false,
+78 info outdated        requiredBy: [Object],
+78 info outdated        requires: [Object],
+78 info outdated        missingDeps: {},
+78 info outdated        missingDevDeps: {},
+78 info outdated        userRequired: false,
+78 info outdated        existing: false },
+78 info outdated     depname: 'grunt-webfont',
+78 info outdated     current: '0.4.4',
+78 info outdated     wanted: '0.4.8',
+78 info outdated     latest: '1.2.0',
+78 info outdated     req: '^0.4.2',
+78 info outdated     what: 'grunt-webfont@0.4.8' },
+78 info outdated   { dep:
+78 info outdated      { id: 7,
+78 info outdated        package: [Object],
+78 info outdated        path: '/Users/stevewikeley/Sites/icon-font/node_modules/matchdep',
+78 info outdated        realpath: '/Users/stevewikeley/Sites/icon-font/node_modules/matchdep',
+78 info outdated        parent: [Object],
+78 info outdated        isLink: false,
+78 info outdated        children: [Object],
+78 info outdated        error: null,
+78 info outdated        loaded: false,
+78 info outdated        requiredBy: [Object],
+78 info outdated        requires: [Object],
+78 info outdated        missingDeps: {},
+78 info outdated        missingDevDeps: {},
+78 info outdated        userRequired: false,
+78 info outdated        existing: false },
+78 info outdated     depname: 'matchdep',
+78 info outdated     current: '0.3.0',
+78 info outdated     wanted: '1.0.1',
+78 info outdated     latest: '1.0.1',
+78 info outdated     req: '*',
+78 info outdated     what: 'matchdep@1.0.1' } ]
+79 silly loadCurrentTree Starting
+80 silly install loadCurrentTree
+81 silly install readLocalPackageData
+82 silly fetchPackageMetaData grunt-notify@0.3.1
+83 silly fetchPackageMetaData grunt-webfont@0.4.8
+84 silly fetchPackageMetaData matchdep@1.0.1
+85 silly fetchNamedPackageData grunt-notify
+86 silly mapToRegistry name grunt-notify
+87 silly mapToRegistry using default registry
+88 silly mapToRegistry registry https://registry.npmjs.org/
+89 silly mapToRegistry uri https://registry.npmjs.org/grunt-notify
+90 silly fetchNamedPackageData grunt-webfont
+91 silly mapToRegistry name grunt-webfont
+92 silly mapToRegistry using default registry
+93 silly mapToRegistry registry https://registry.npmjs.org/
+94 silly mapToRegistry uri https://registry.npmjs.org/grunt-webfont
+95 silly fetchNamedPackageData matchdep
+96 silly mapToRegistry name matchdep
+97 silly mapToRegistry using default registry
+98 silly mapToRegistry registry https://registry.npmjs.org/
+99 silly mapToRegistry uri https://registry.npmjs.org/matchdep
+100 verbose get https://registry.npmjs.org/grunt-notify not expired, no request
+101 verbose get https://registry.npmjs.org/matchdep not expired, no request
+102 verbose get https://registry.npmjs.org/grunt-webfont not expired, no request
+103 silly install normalizeTree
+104 silly loadCurrentTree Finishing
+105 silly loadIdealTree Starting
+106 silly install loadIdealTree
+107 silly cloneCurrentTree Starting
+108 silly install cloneCurrentTreeToIdealTree
+109 silly cloneCurrentTree Finishing
+110 silly loadShrinkwrap Starting
+111 silly install loadShrinkwrap
+112 silly loadShrinkwrap Finishing
+113 silly loadAllDepsIntoIdealTree Starting
+114 silly install loadAllDepsIntoIdealTree
+115 silly resolveWithNewModule grunt-notify@0.3.1 checking installable status
+116 silly cache add args [ 'grunt-notify@0.3.1', null ]
+117 verbose cache add spec grunt-notify@0.3.1
+118 silly resolveWithNewModule matchdep@1.0.1 checking installable status
+119 silly cache add args [ 'matchdep@1.0.1', null ]
+120 verbose cache add spec matchdep@1.0.1
+121 silly resolveWithNewModule grunt-webfont@0.4.8 checking installable status
+122 silly cache add args [ 'grunt-webfont@0.4.8', null ]
+123 verbose cache add spec grunt-webfont@0.4.8
+124 silly cache add parsed spec { raw: 'grunt-notify@0.3.1',
+124 silly cache add   scope: null,
+124 silly cache add   name: 'grunt-notify',
+124 silly cache add   rawSpec: '0.3.1',
+124 silly cache add   spec: '0.3.1',
+124 silly cache add   type: 'version' }
+125 silly addNamed grunt-notify@0.3.1
+126 verbose addNamed "0.3.1" is a plain semver version for grunt-notify
+127 silly mapToRegistry name grunt-notify
+128 silly mapToRegistry using default registry
+129 silly mapToRegistry registry https://registry.npmjs.org/
+130 silly mapToRegistry uri https://registry.npmjs.org/grunt-notify
+131 verbose addNameVersion registry:https://registry.npmjs.org/grunt-notify not in flight; fetching
+132 silly cache add parsed spec { raw: 'matchdep@1.0.1',
+132 silly cache add   scope: null,
+132 silly cache add   name: 'matchdep',
+132 silly cache add   rawSpec: '1.0.1',
+132 silly cache add   spec: '1.0.1',
+132 silly cache add   type: 'version' }
+133 silly addNamed matchdep@1.0.1
+134 verbose addNamed "1.0.1" is a plain semver version for matchdep
+135 silly mapToRegistry name matchdep
+136 silly mapToRegistry using default registry
+137 silly mapToRegistry registry https://registry.npmjs.org/
+138 silly mapToRegistry uri https://registry.npmjs.org/matchdep
+139 verbose addNameVersion registry:https://registry.npmjs.org/matchdep not in flight; fetching
+140 silly cache add parsed spec { raw: 'grunt-webfont@0.4.8',
+140 silly cache add   scope: null,
+140 silly cache add   name: 'grunt-webfont',
+140 silly cache add   rawSpec: '0.4.8',
+140 silly cache add   spec: '0.4.8',
+140 silly cache add   type: 'version' }
+141 silly addNamed grunt-webfont@0.4.8
+142 verbose addNamed "0.4.8" is a plain semver version for grunt-webfont
+143 silly mapToRegistry name grunt-webfont
+144 silly mapToRegistry using default registry
+145 silly mapToRegistry registry https://registry.npmjs.org/
+146 silly mapToRegistry uri https://registry.npmjs.org/grunt-webfont
+147 verbose addNameVersion registry:https://registry.npmjs.org/grunt-webfont not in flight; fetching
+148 verbose get https://registry.npmjs.org/matchdep not expired, no request
+149 verbose get https://registry.npmjs.org/grunt-notify not expired, no request
+150 verbose get https://registry.npmjs.org/grunt-webfont not expired, no request
+151 silly mapToRegistry name matchdep
+152 silly mapToRegistry using default registry
+153 silly mapToRegistry registry https://registry.npmjs.org/
+154 silly mapToRegistry uri https://registry.npmjs.org/matchdep
+155 verbose addRemoteTarball https://registry.npmjs.org/matchdep/-/matchdep-1.0.1.tgz not in flight; adding
+156 verbose addRemoteTarball [ 'https://registry.npmjs.org/matchdep/-/matchdep-1.0.1.tgz',
+156 verbose addRemoteTarball   'a57a33804491fbae208aba8f68380437abc2dca5' ]
+157 silly cache afterAdd grunt-notify@0.3.1
+158 verbose afterAdd /Users/stevewikeley/.npm/grunt-notify/0.3.1/package/package.json not in flight; writing
+159 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+160 silly cache afterAdd grunt-webfont@0.4.8
+161 verbose afterAdd /Users/stevewikeley/.npm/grunt-webfont/0.4.8/package/package.json not in flight; writing
+162 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+163 info retry fetch attempt 1 at 22:08:07
+164 info attempt registry request try #1 at 22:08:07
+165 http fetch GET https://registry.npmjs.org/matchdep/-/matchdep-1.0.1.tgz
+166 verbose afterAdd /Users/stevewikeley/.npm/grunt-webfont/0.4.8/package/package.json written
+167 verbose afterAdd /Users/stevewikeley/.npm/grunt-notify/0.3.1/package/package.json written
+168 http fetch 200 https://registry.npmjs.org/matchdep/-/matchdep-1.0.1.tgz
+169 silly fetchAndShaCheck shasum a57a33804491fbae208aba8f68380437abc2dca5
+170 verbose addTmpTarball /var/folders/jr/zr14n6fn65xfm86jnr7xqz_80000gn/T/npm-15804-76911343/registry.npmjs.org/matchdep/-/matchdep-1.0.1.tgz not in flight; adding
+171 verbose addTmpTarball already have metadata; skipping unpack for matchdep@1.0.1
+172 verbose correctMkdir /Users/stevewikeley/.npm correctMkdir not in flight; initializing
+173 silly rollbackFailedOptional Starting
+174 silly rollbackFailedOptional Finishing
+175 silly runTopLevelLifecycles Starting
+176 silly runTopLevelLifecycles Finishing
+177 silly install printInstalled
+178 verbose stack Error: EACCES, mkdir '/Users/stevewikeley/.npm/matchdep/1.0.1'
+179 verbose cwd /Users/stevewikeley/Sites/icon-font
+180 error Darwin 15.0.0
+181 error argv "node" "/usr/local/bin/npm" "update"
+182 error node v0.10.29
+183 error npm  v3.8.2
+184 error path /Users/stevewikeley/.npm/matchdep/1.0.1
+185 error code EACCES
+186 error errno 3
+187 error Error: EACCES, mkdir '/Users/stevewikeley/.npm/matchdep/1.0.1'
+187 error  { [Error: EACCES, mkdir '/Users/stevewikeley/.npm/matchdep/1.0.1']
+187 error   errno: 3,
+187 error   code: 'EACCES',
+187 error   path: '/Users/stevewikeley/.npm/matchdep/1.0.1',
+187 error   parent: 'HSBC-ICON-' }
+188 error Please try running this command again as root/Administrator.
+189 verbose exit [ 3, true ]
