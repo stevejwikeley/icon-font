@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>HSBC Icon Font</title>
+		<style>
+		body {
+			background:#fff;
+			color:#222;
+			}
+		h1, h3, div, footer {
+			font-family:'Helvetica Neue', Arial, sans-serif;
+			}
+		h1 {
+			font-size:18px;
+			}
+
+		h3 {
+		font-size:14px;
+		}
+		.brand__logo { 
+		    left: 20px;
+		    top: 6px;
+		    height: 30px;}
+		.icons {
+			-webkit-column-count:5;
+			   -moz-column-count:5;
+			        column-count:5;
+			-webkit-column-gap:20px;
+			   -moz-column-gap:20px;
+			        column-gap:20px;
+			}
+		.icons__item,
+		.icons__item i {
+			line-height:2em;
+			cursor:pointer;
+			}
+		.icons__item:hover {
+			color:#db0001;
+			}
+		.icons__item i {
+			display:inline-block;
+			width:32px;
+			text-align:center;
+			}
+		.icons__item:hover i {
+			-webkit-transform:scale(1.5);
+			   -moz-transform:scale(1.5);
+			    -ms-transform:scale(1.5);
+			     -o-transform:scale(1.5);
+			        transform:scale(1.5);
+			}
+		footer {
+			margin-top:2em;
+			font-size:14px;
+			color:#999;
+			}
+
+		.iconfont{
+			font-family: 'hsbcicon-fontregular';
+							}
+
+		<%= styles %>
+		</style>
+		<link rel="icon" type="image/png" href="assets/Favicons/hsbc.png">
+	</head>
+	<body>
+		<div class="brand">
+        <img src="assets/hsbc.png" alt="HSBC logo" data-pin-nopin="true">
+		</div>
+		<h1><%= fontBaseName %> - Development version</h1>
+
+		<div class="icons" id="icons">
+			<% for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { var glyph = glyphs[glyphIdx] %>
+				<div class="icons__item" data-name="<%= glyph %>"><i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i> <%= classPrefix %><%= glyph %></div>
+			<% } %>
+		</div>
+
+		<h3>Usage</h3>
+		<pre><code>&lt;i class=&quot;<%= baseClass ? baseClass + ' ' : '' %><%= classPrefix %><span id="name">name</span>&quot;&gt;&lt;/i&gt;</code></pre>
+		<br>
+		<div> <h1><%= fontBaseName %> - Desktop version</h1>
+			<p><a href="desktopfont/HSBCIcon-Font.otf">Download font</a></p>
+			 					 <div style = "font-family: HSBCIcon-Font; font-size: 48px;">
+			 					 	  &#57344; &#57346; &#57347; &#57348; &#57349; &#57350; &#57351; &#57352; &#57353; &#57360; &#57361; &#57362; &#57363; &#57364; &#57365; &#57366; &#57367; &#57368; &#57369; &#57376; &#57377; &#57378; &#57380; &#57381; &#57382; &#57383; &#57384; &#57385; &#57392; &#57393; &#57394; &#57395; &#57396; &#57397; &#57398; &#57399; &#57400; &#57401; &#57408; &#57409; &#57410; &#57411; &#57412; &#57413; &#57414; &#57415; &#57416; &#57417; &#57424; &#57425; &#57426; &#57427; &#57428; &#57429; &#57430; &#57431; &#57432; &#57433; &#57440; &#57441; &#57442; &#57443; &#61440; &#61441; &#61442; &#61444; &#61445; &#61446; &#61447; &#61448; &#61449; &#61450; &#61451; &#61452; &#61453; &#61454; &#61456; &#61457; &#61458; &#61459; &#61461; &#61462; &#61463; &#61464; &#61465; &#61466; &#61468; &#61469; &#61470; &#61473; &#61474; &#61476; &#61477; &#61478; &#61479; &#61480; &#61481; &#61482; &#61483; &#61485; &#61486; &#61487; &#61488; &#61489; &#61490; &#61491; &#61492; &#61495; &#61496; &#61497; &#61498; &#61499; &#61500; &#61502; &#61505; &#61506; &#61507; &#61508; &#61509; &#61511; &#61514; &#61515; &#61516; &#61517; &#61518; &#61520; &#61521; &#61522; &#61523; &#61524; &#61525; &#61526; &#61527; &#61528; &#61536; &#61537; &#61538; &#61540; &#61541; &#61542; &#61543; &#61552; &#61553; &#61554; &#61555; &#61557; &#61560; &#61561; &#61563; &#61564; &#61569; &#61570; &#61571; &#61572; 
+			 					 </div>
+</div>
+		<script>
+		(function() {
+			document.getElementById('icons').onclick = function(e) {
+				e = e || window.event;
+				document.getElementById('name').innerHTML = e.target.getAttribute('data-name') || e.target.parentNode.getAttribute('data-name');
+			}
+		})();
+		</script>
+	</body>
+</html>

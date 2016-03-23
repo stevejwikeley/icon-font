@@ -1,100 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Icons_3_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g id="Error">
-</g>
-<g id="View">
-</g>
-<g id="Video">
-</g>
-<g id="User_Personal">
-</g>
-<g id="Upload">
-</g>
-<g id="Travel">
-</g>
-<g id="Transfers">
-</g>
-<g id="Tools">
-</g>
-<g id="Clock">
-</g>
-<g id="Fast_Track">
-</g>
-<g id="Camera">
-</g>
-<g id="Tablet">
-</g>
-<g id="Switch">
-</g>
-<g id="Survey">
-</g>
-<g id="Minimize">
-</g>
-<g id="Stock_Up">
-</g>
-<g id="Stock_Down">
-</g>
-<g id="Sound">
-</g>
-<g id="Shopping_Cart">
-</g>
-<g id="Share">
-</g>
-<g id="Settings">
-</g>
-<g id="Secure_Key_Passcode">
-</g>
-<g id="Search">
-</g>
-<g id="Script">
-</g>
-<g id="Staff_Channels">
-	<g id="Signature">
-	</g>
-	<g id="Shortcuts">
-	</g>
-	<g id="Microphone">
-	</g>
-	<g id="Dial">
-	</g>
-</g>
-<g id="Social_Icons">
-	<g id="Youtube">
-	</g>
-	<g id="Youtube_Solid">
-	</g>
-	<g id="Weibo">
-	</g>
-	<g id="Weibo_Solid">
-	</g>
-	<g id="Vimeo">
-	</g>
-	<g id="Vimeo_Solid">
-	</g>
-	<g id="Twitter">
-	</g>
-	<g id="Twitter_Solid">
-	</g>
-	<g id="LinkedIn">
-	</g>
-	<g id="LinkedIn_Solid">
-	</g>
-	<g id="GooglePlus">
-	</g>
-	<g id="GooglePlus_Solid">
-	</g>
-	<g id="Facebook">
-	</g>
-	<g id="Facebook_Solid">
-	</g>
-</g>
-<g id="View_All">
-	<rect x="27" y="83" width="32" height="32"/>
-	<rect x="27" y="35" width="32" height="32"/>
-	<rect x="75" y="35" width="48" height="16"/>
-	<rect x="75" y="99" width="48" height="16"/>
-	<rect x="75" y="67" width="48" height="16"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<g>
+	<polygon points="27,115 43,115 59,115 59,99 59,83 43,83 27,83 27,99 	"/>
+	<polygon points="27,67 43,67 59,67 59,51 59,35 43,35 27,35 27,51 	"/>
+	<polygon points="75,51 99,51 123,51 123,43 123,35 99,35 75,35 75,43 	"/>
+	<polygon points="75,115 99,115 123,115 123,107 123,99 99,99 75,99 75,107 	"/>
+	<polygon points="75,83 99,83 123,83 123,75 123,67 99,67 75,67 75,75 	"/>
 </g>
 </svg>

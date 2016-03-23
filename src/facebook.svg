@@ -1,95 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Icons_3_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g id="Error">
-</g>
-<g id="View">
-</g>
-<g id="Video">
-</g>
-<g id="User_Personal">
-</g>
-<g id="Upload">
-</g>
-<g id="Travel">
-</g>
-<g id="Transfers">
-</g>
-<g id="Tools">
-</g>
-<g id="Clock">
-</g>
-<g id="Fast_Track">
-</g>
-<g id="Camera">
-</g>
-<g id="Tablet">
-</g>
-<g id="Switch">
-</g>
-<g id="Survey">
-</g>
-<g id="Minimize">
-</g>
-<g id="Stock_Up">
-</g>
-<g id="Stock_Down">
-</g>
-<g id="Sound">
-</g>
-<g id="Shopping_Cart">
-</g>
-<g id="Share">
-</g>
-<g id="Settings">
-</g>
-<g id="Secure_Key_Passcode">
-</g>
-<g id="Search">
-</g>
-<g id="Script">
-</g>
-<g id="Staff_Channels">
-	<g id="Signature">
-	</g>
-	<g id="Shortcuts">
-	</g>
-	<g id="Microphone">
-	</g>
-	<g id="Dial">
-	</g>
-</g>
-<g id="Social_Icons">
-	<g id="Youtube">
-	</g>
-	<g id="Youtube_Solid">
-	</g>
-	<g id="Weibo">
-	</g>
-	<g id="Weibo_Solid">
-	</g>
-	<g id="Vimeo">
-	</g>
-	<g id="Vimeo_Solid">
-	</g>
-	<g id="Twitter">
-	</g>
-	<g id="Twitter_Solid">
-	</g>
-	<g id="LinkedIn">
-	</g>
-	<g id="LinkedIn_Solid">
-	</g>
-	<g id="GooglePlus">
-	</g>
-	<g id="GooglePlus_Solid">
-	</g>
-	<g id="Facebook">
-		<path d="M77.6,123V82.1H66.8V67.3h10.8c0,0,0-6,0-12.6c0-9.9,6.4-19,21.2-19c5.9,0,10.4,0.6,10.4,0.6l-0.4,13.8c0,0-4.5,0-9.4,0
-			c-5.3,0-6.2,2.4-6.2,6.5c0,0.5,0,0.7,0,0.7c0,1.1,0,3.9,0,10h16l-0.7,14.6H93V123H77.6z"/>
-	</g>
-	<g id="Facebook_Solid">
-	</g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<g>
+	<path d="M77.6,123v-20.4V82.1h-5.4h-5.4v-7.4v-7.4h5.4h5.4c0,0,0-1.5,0-3.8c0-2.3,0-5.5,0-8.7c0-5,1.6-9.7,5.1-13.2
+		c3.4-3.5,8.7-5.8,16.1-5.8c3,0,5.6,0.2,7.4,0.3c1.9,0.2,3,0.3,3,0.3l-0.2,6.9l-0.2,6.9c0,0-1.1,0-2.9,0s-4.1,0-6.6,0
+		c-2.7,0-4.2,0.6-5.1,1.7s-1.1,2.8-1.1,4.8c0,0.2,0,0.4,0,0.5c0,0.1,0,0.2,0,0.2c0,0.5,0,1.5,0,3.1s0,3.8,0,6.9h8h8l-0.4,7.3
+		l-0.4,7.3h-7.7H93v20.4V123h-7.7H77.6z"/>
 </g>
 </svg>

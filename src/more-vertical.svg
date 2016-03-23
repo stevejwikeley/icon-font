@@ -1,98 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Icons_3_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g id="Error">
-</g>
-<g id="View">
-</g>
-<g id="Video">
-</g>
-<g id="User_Personal">
-</g>
-<g id="Upload">
-</g>
-<g id="Travel">
-</g>
-<g id="Transfers">
-</g>
-<g id="Tools">
-</g>
-<g id="Clock">
-</g>
-<g id="Fast_Track">
-</g>
-<g id="Camera">
-</g>
-<g id="Tablet">
-</g>
-<g id="Switch">
-</g>
-<g id="Survey">
-</g>
-<g id="Minimize">
-</g>
-<g id="Stock_Up">
-</g>
-<g id="Stock_Down">
-</g>
-<g id="Sound">
-</g>
-<g id="Shopping_Cart">
-</g>
-<g id="Share">
-</g>
-<g id="Settings">
-</g>
-<g id="Secure_Key_Passcode">
-</g>
-<g id="Search">
-</g>
-<g id="Script">
-</g>
-<g id="Staff_Channels">
-	<g id="Signature">
-	</g>
-	<g id="Shortcuts">
-	</g>
-	<g id="Microphone">
-	</g>
-	<g id="Dial">
-	</g>
-</g>
-<g id="Social_Icons">
-	<g id="Youtube">
-	</g>
-	<g id="Youtube_Solid">
-	</g>
-	<g id="Weibo">
-	</g>
-	<g id="Weibo_Solid">
-	</g>
-	<g id="Vimeo">
-	</g>
-	<g id="Vimeo_Solid">
-	</g>
-	<g id="Twitter">
-	</g>
-	<g id="Twitter_Solid">
-	</g>
-	<g id="LinkedIn">
-	</g>
-	<g id="LinkedIn_Solid">
-	</g>
-	<g id="GooglePlus">
-	</g>
-	<g id="GooglePlus_Solid">
-	</g>
-	<g id="Facebook">
-	</g>
-	<g id="Facebook_Solid">
-	</g>
-</g>
-<g id="More_Vertical">
-	<circle cx="75" cy="115" r="8"/>
-	<circle cx="75" cy="75" r="8"/>
-	<circle cx="75" cy="35" r="8"/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<g>
+	<path d="M67,115c0-2.2,0.9-4.2,2.3-5.7s3.4-2.3,5.7-2.3s4.2,0.9,5.7,2.3s2.3,3.4,2.3,5.7s-0.9,4.2-2.3,5.7S77.2,123,75,123
+		s-4.2-0.9-5.7-2.3S67,117.2,67,115z"/>
+	<path d="M67,75c0-2.2,0.9-4.2,2.3-5.7S72.8,67,75,67s4.2,0.9,5.7,2.3S83,72.8,83,75s-0.9,4.2-2.3,5.7S77.2,83,75,83
+		s-4.2-0.9-5.7-2.3S67,77.2,67,75z"/>
+	<path d="M67,35c0-2.2,0.9-4.2,2.3-5.7S72.8,27,75,27s4.2,0.9,5.7,2.3S83,32.8,83,35s-0.9,4.2-2.3,5.7S77.2,43,75,43
+		s-4.2-0.9-5.7-2.3S67,37.2,67,35z"/>
 </g>
 </svg>
