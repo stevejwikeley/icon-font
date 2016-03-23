@@ -4,17 +4,17 @@
 
 @font-face {
     font-family:"HSBCIcon-Font";
-    src:url("/fonts/HSBCIcon-Font-1312ade67ac9e04913b09b8601c65612.eot");
+    src:url("/fonts/HSBCIcon-Font-d7622ac7edcb352e7e857fb1b1aaf8b8.eot");
     font-weight:normal;
     font-style:normal;
 }
 @font-face {
 	font-family:"HSBCIcon-Font";
-	src:url("/fonts/HSBCIcon-Font-1312ade67ac9e04913b09b8601c65612.eot");
-	src:url("/fonts/HSBCIcon-Font-1312ade67ac9e04913b09b8601c65612.eot?#iefix") format("embedded-opentype"),
-		url("/fonts/HSBCIcon-Font-1312ade67ac9e04913b09b8601c65612.woff") format("woff"),
-		url("/fonts/HSBCIcon-Font-1312ade67ac9e04913b09b8601c65612.ttf") format("truetype"),
-		url("/fonts/HSBCIcon-Font-1312ade67ac9e04913b09b8601c65612.svg?#HSBCIcon-Font") format("svg");
+	src:url("/fonts/HSBCIcon-Font-d7622ac7edcb352e7e857fb1b1aaf8b8.eot");
+	src:url("/fonts/HSBCIcon-Font-d7622ac7edcb352e7e857fb1b1aaf8b8.eot?#iefix") format("embedded-opentype"),
+		url("/fonts/HSBCIcon-Font-d7622ac7edcb352e7e857fb1b1aaf8b8.woff") format("woff"),
+		url("/fonts/HSBCIcon-Font-d7622ac7edcb352e7e857fb1b1aaf8b8.ttf") format("truetype"),
+		url("/fonts/HSBCIcon-Font-d7622ac7edcb352e7e857fb1b1aaf8b8.svg?#HSBCIcon-Font") format("svg");
 	font-weight:normal;
 	font-style:normal;
 }
