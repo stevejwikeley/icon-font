@@ -239,8 +239,6 @@
 		<g id="Facebook_Solid">
 		</g>
 	</g>
-	<g>
-		<polygon points="123,55 27,55 75,103 		"/>
-	</g>
+	<polygon points="123,55 27,55 75,103 	"/>
 </g>
 </svg>

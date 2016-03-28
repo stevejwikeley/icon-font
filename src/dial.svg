@@ -239,16 +239,14 @@
 		<g id="Facebook_Solid">
 		</g>
 	</g>
-	<g>
-		<rect x="27.1" y="27.1" width="28" height="28"/>
-		<rect x="61" y="27.1" width="28" height="28"/>
-		<rect x="94.9" y="27.1" width="28" height="28"/>
-		<rect x="27.1" y="94.9" width="28" height="28"/>
-		<rect x="61" y="94.9" width="28" height="28"/>
-		<rect x="94.9" y="94.9" width="28" height="28"/>
-		<rect x="27.1" y="61.1" width="28" height="28"/>
-		<rect x="61" y="61.1" width="28" height="28"/>
-		<rect x="94.9" y="61.1" width="28" height="28"/>
-	</g>
+	<rect x="27.1" y="27.1" width="28" height="28"/>
+	<rect x="61" y="27.1" width="28" height="28"/>
+	<rect x="94.9" y="27.1" width="28" height="28"/>
+	<rect x="27.1" y="94.9" width="28" height="28"/>
+	<rect x="61" y="94.9" width="28" height="28"/>
+	<rect x="94.9" y="94.9" width="28" height="28"/>
+	<rect x="27.1" y="61.1" width="28" height="28"/>
+	<rect x="61" y="61.1" width="28" height="28"/>
+	<rect x="94.9" y="61.1" width="28" height="28"/>
 </g>
 </svg>

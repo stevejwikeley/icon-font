@@ -239,10 +239,8 @@
 		<g id="Facebook_Solid">
 		</g>
 	</g>
-	<g>
-		<path d="M27,95v20h96V95H27z M119,111H59V99h60V111z"/>
-		<path d="M27,65v20h96V65H27z M119,81H99V69h20V81z"/>
-		<path d="M27,35v20h96V35H27z M119,51H83V39h36V51z"/>
-	</g>
+	<path d="M27,95v20h96V95H27z M119,111H59V99h60V111z"/>
+	<path d="M27,65v20h96V65H27z M119,81H99V69h20V81z"/>
+	<path d="M27,35v20h96V35H27z M119,51H83V39h36V51z"/>
 </g>
 </svg>

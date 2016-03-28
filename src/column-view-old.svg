@@ -4,12 +4,7 @@
 <svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
 <g>
-	<polygon points="27,55 47,55 47,63 35,63 35,115 91,115 91,99 99,99 99,123 27,123 	"/>
-	<polygon points="67.1,91.2 115,91.2 115,35 55,35 55,79 47,87.1 47,27 123,27 123,99 59,99 	"/>
-	<polygon points="59.2,67.2 79,67.2 79,87.1 71.9,80 44.9,107 39.2,101.4 66.3,74.3 	"/>
-	<rect x="63" y="43" width="44" height="4.2"/>
-	<rect x="63" y="55" width="44" height="4"/>
-	<rect x="86.9" y="67" width="20.2" height="4"/>
-	<rect x="87" y="79" width="20" height="4"/>
+	<path d="M27,27v96h40V27H27z M59,115H35V35h24V115z"/>
+	<path d="M83,27v96h40V27H83z M115,115H91V35h24V115z"/>
 </g>
 </svg>

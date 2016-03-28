@@ -26,8 +26,7 @@ module.exports = function (grunt) {
                     hashes: true,
                     relativeFontPath: '/fonts/',
                     htmlDemoTemplate: 'template/template.html',
-                    fontHeight: 31,
-                    descent: 0,
+                    ascent: 390,
                     codepoints: {
                         'accounts' : 0xf021,                                                                                                                                                                                                     
                         'add' : 0xf031,                                                                                                                                                                                                  
