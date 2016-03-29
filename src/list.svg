@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g>
-	<rect x="47" y="33" width="76" height="12"/>
-	<rect x="47" y="57" width="76" height="12"/>
-	<rect x="47" y="81" width="76" height="12"/>
-	<rect x="47" y="105" width="76" height="12"/>
-	<circle cx="33" cy="39" r="6"/>
-	<circle cx="33" cy="63" r="6"/>
-	<circle cx="33" cy="87" r="6"/>
-	<circle cx="33" cy="111" r="6"/>
-</g>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132px" height="132px" viewBox="0 0 132 132" enable-background="new 0 0 132 132" xml:space="preserve">
+<polygon points="38,24 76,24 114,24 114,30 114,36 76,36 38,36 38,30 "/>
+<polygon points="38,48 76,48 114,48 114,54 114,60 76,60 38,60 38,54 "/>
+<polygon points="38,72 76,72 114,72 114,78 114,84 76,84 38,84 38,78 "/>
+<polygon points="38,96 76,96 114,96 114,102 114,108 76,108 38,108 38,102 "/>
+<path d="M24,24c1.7,0,3.2,0.7,4.2,1.8S30,28.4,30,30s-0.7,3.2-1.8,4.2C27.2,35.3,25.7,36,24,36s-3.2-0.7-4.2-1.8
+	C18.7,33.2,18,31.7,18,30s0.7-3.2,1.8-4.2S22.4,24,24,24z"/>
+<path d="M24,48c1.7,0,3.2,0.7,4.2,1.8c1.1,1.1,1.8,2.6,1.8,4.2s-0.7,3.2-1.8,4.2C27.2,59.3,25.7,60,24,60s-3.2-0.7-4.2-1.8
+	C18.7,57.2,18,55.7,18,54s0.7-3.2,1.8-4.2C20.9,48.7,22.4,48,24,48z"/>
+<path d="M24,72c1.7,0,3.2,0.7,4.2,1.8S30,76.3,30,78s-0.7,3.2-1.8,4.2S25.7,84,24,84s-3.2-0.7-4.2-1.8S18,79.7,18,78
+	s0.7-3.2,1.8-4.2S22.4,72,24,72z"/>
+<path d="M24,96c1.7,0,3.2,0.7,4.2,1.8s1.8,2.6,1.8,4.2c0,1.7-0.7,3.2-1.8,4.2S25.7,108,24,108s-3.2-0.7-4.2-1.8S18,103.7,18,102
+	c0-1.7,0.7-3.2,1.8-4.2S22.4,96,24,96z"/>
 </svg>

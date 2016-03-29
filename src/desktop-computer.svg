@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g>
-	<path d="M121.2,35H28.7c-1,0-1.8,0.8-1.8,1.8v56.5c0,1,0.8,1.8,1.8,1.8H64c0,0,1.7,8.8-0.5,11.6c-2,2.5-8.5,6.1-8.5,6.1v2.3h40
-		v-2.3c0,0-6.6-3.5-8.6-6.1C84.2,103.8,86,95,86,95h35.3c1,0,1.8-0.8,1.8-1.8V36.8C123,35.8,122.2,35,121.2,35z M115,87H35V43h80V87
-		z"/>
-</g>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132px" height="132px" viewBox="0 0 132 132" enable-background="new 0 0 132 132" xml:space="preserve">
+<path d="M112.2,26H65.9H19.7c-0.5,0-0.9,0.2-1.3,0.5c-0.3,0.3-0.5,0.8-0.5,1.3V56v28.2c0,0.5,0.2,1,0.5,1.3c0.3,0.3,0.8,0.5,1.3,0.5
+	h17.7H55c0,0,0.4,2.2,0.6,4.8c0.2,2.6,0,5.5-1.1,6.9c-1,1.2-3.1,2.8-5,4c-1.9,1.2-3.5,2.1-3.5,2.1v1.2v1.1h20h20V105v-1.2
+	c0,0-1.7-0.9-3.6-2.1c-1.9-1.2-4-2.7-5-4c-1.1-1.5-1.2-4.4-1-6.9S77,86,77,86h17.7h17.7c0.5,0,0.9-0.2,1.3-0.5
+	c0.3-0.3,0.5-0.8,0.5-1.3V56V27.8c0-0.5-0.3-1-0.6-1.3C113.1,26.2,112.7,26,112.2,26z M106,78H66H26V56V34h40h40v22V78z"/>
 </svg>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g>
-	<path d="M90.8,89c10.2-5.6,17-16.5,17-28.9C107.8,41.8,93,27,74.8,27c-18.3,0-33.1,14.8-33.1,33.1c0,12.4,6.9,23.3,17,28.9v6.1
-		h32.1V89z M58.7,99.2h32.1v4H58.7V99.2z M58.7,107.2h32.1v4H58.7V107.2z"/>
-	<path d="M84.6,115.2c-1,4.5-5,7.8-9.8,7.8c-4.8,0-8.8-3.3-9.8-7.8H84.6z"/>
-</g>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132px" height="132px" viewBox="0 0 132 132" enable-background="new 0 0 132 132" xml:space="preserve">
+<polygon points="49.7,90.2 49.7,92.2 49.7,94.2 65.8,94.2 81.8,94.2 81.8,92.2 81.8,90.2 65.8,90.2 "/>
+<polygon points="49.7,98.2 49.7,100.2 49.7,102.2 65.8,102.2 81.8,102.2 81.8,100.2 81.8,98.2 65.8,98.2 "/>
+<path d="M89.2,27.7c-6-6-14.3-9.7-23.4-9.7c-9.1,0-17.4,3.7-23.4,9.7c-6,6-9.7,14.3-9.7,23.4c0,6.2,1.7,12,4.7,17
+	c3,5,7.2,9.1,12.3,11.9v3.1v3.1h16h16v-3.1V80c5.1-2.8,9.3-6.9,12.3-11.9c3-5,4.7-10.8,4.7-17C98.8,41.9,95.1,33.7,89.2,27.7z"/>
+<path d="M56,106.2c0.5,2.2,1.8,4.2,3.5,5.6s3.9,2.2,6.3,2.2c2.4,0,4.6-0.8,6.3-2.2s3-3.3,3.5-5.6h-9.8H56z"/>
 </svg>

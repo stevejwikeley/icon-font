@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g>
-	<polygon points="107,108.5 107,78.9 123,78.9 123,123 27,123 27,78.9 43,78.9 43,108.5 	"/>
-	<polygon points="49,66 75,92 101,66 83,66 83,27 67,27 67,66 	"/>
-</g>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132px" height="132px" viewBox="0 0 132 132" enable-background="new 0 0 132 132" xml:space="preserve">
+<polygon points="98,99.5 98,84.7 98,69.9 106,69.9 114,69.9 114,92 114,114 66,114 18,114 18,92 18,69.9 26,69.9 34,69.9 34,84.7 
+	34,99.5 66,99.5 "/>
+<polygon points="40,57 53,70 66,83 79,70 92,57 83,57 74,57 74,37.5 74,18 66,18 58,18 58,37.5 58,57 49,57 "/>
 </svg>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g>
-	<path d="M123,39v84c0,0-2.2,0-4.8,0H27v-4.8V31.8V27h84L123,39z M107,71V35l-64,0v36L107,71z"/>
-	<rect x="47" y="39" width="16" height="28"/>
-</g>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132px" height="132px" viewBox="0 0 132 132" enable-background="new 0 0 132 132" xml:space="preserve">
+<path d="M114,30v42v42c0,0-0.5,0-1.4,0s-2.1,0-3.4,0H63.6H18v-2.4v-2.4V66V22.8v-2.4V18h42h42l6,6L114,30z M98,62V44V26l-32,0l-32,0
+	v18v18l32,0L98,62z"/>
+<polygon points="38,30 46,30 54,30 54,44 54,58 46,58 38,58 38,44 "/>
 </svg>

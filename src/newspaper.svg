@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g>
-	<path d="M27,27v96h96V27H27z M119,119H31V31h88V119z"/>
-	<rect x="79" y="39" width="32" height="40"/>
-	<rect x="39" y="39" width="32" height="8"/>
-	<rect x="39" y="55" width="32" height="8"/>
-	<rect x="39" y="71" width="32" height="8"/>
-	<rect x="39" y="87" width="32" height="8"/>
-	<rect x="39" y="103" width="32" height="8"/>
-	<rect x="79" y="87" width="32" height="8"/>
-	<rect x="79" y="103" width="32" height="8"/>
-</g>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132px" height="132px" viewBox="0 0 132 132" enable-background="new 0 0 132 132" xml:space="preserve">
+<path d="M18,18v48v48h48h48V66V18H66H18z M110,110H66H22V66V22h44h44v44V110z"/>
+<polygon points="70,30 86,30 102,30 102,50 102,70 86,70 70,70 70,50 "/>
+<polygon points="30,30 46,30 62,30 62,34 62,38 46,38 30,38 30,34 "/>
+<polygon points="30,46 46,46 62,46 62,50 62,54 46,54 30,54 30,50 "/>
+<polygon points="30,62 46,62 62,62 62,66 62,70 46,70 30,70 30,66 "/>
+<polygon points="30,78 46,78 62,78 62,82 62,86 46,86 30,86 30,82 "/>
+<polygon points="30,94 46,94 62,94 62,98 62,102 46,102 30,102 30,98 "/>
+<polygon points="70,78 86,78 102,78 102,82 102,86 86,86 70,86 70,82 "/>
+<polygon points="70,94 86,94 102,94 102,98 102,102 86,102 70,102 70,98 "/>
 </svg>

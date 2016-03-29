@@ -23,6 +23,7 @@ module.exports = function (grunt) {
                 options: {
                     font: 'HSBCIcon-Font',
                     engine: "fontforge",
+                    ttfautohint: "true",
                     hashes: true,
                     relativeFontPath: '/fonts/',
                     htmlDemoTemplate: 'template/template.html',

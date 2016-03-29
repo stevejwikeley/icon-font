@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="ic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
-<g>
-	<rect x="43" y="55" width="4" height="16"/>
-	<polygon points="43,27 43,47 47,47 47,31 107,31 107,119 47,119 47,103 43,103 43,123 111,123 111,27 	"/>
-	<rect x="43" y="79" width="4" height="16"/>
-	<rect x="63" y="47" width="32" height="8"/>
-	<rect x="63" y="63" width="32" height="8"/>
-	<rect x="39" y="49" width="12" height="4"/>
-	<rect x="39" y="73" width="12" height="4"/>
-	<rect x="39" y="97" width="12" height="4"/>
-</g>
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="132px" height="132px" viewBox="0 0 132 132" enable-background="new 0 0 132 132" xml:space="preserve">
+<polygon points="34,46 36,46 38,46 38,54 38,62 36,62 34,62 34,54 "/>
+<polygon points="34,18 34,28 34,38 36,38 38,38 38,30 38,22 68,22 98,22 98,66 98,110 68,110 38,110 38,102 38,94 36,94 34,94 
+	34,104 34,114 68,114 102,114 102,66 102,18 68,18 "/>
+<polygon points="34,70 36,70 38,70 38,78 38,86 36,86 34,86 34,78 "/>
+<polygon points="54,38 70,38 86,38 86,42 86,46 70,46 54,46 54,42 "/>
+<polygon points="54,54 70,54 86,54 86,58 86,62 70,62 54,62 54,58 "/>
+<polygon points="30,40 36,40 42,40 42,42 42,44 36,44 30,44 30,42 "/>
+<polygon points="30,64 36,64 42,64 42,66 42,68 36,68 30,68 30,66 "/>
+<polygon points="30,88 36,88 42,88 42,90 42,92 36,92 30,92 30,90 "/>
 </svg>
